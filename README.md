@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad hasim s
 - 👀 I’m interested in network,tech,fitness,travel,adventure
-- 🌱 I’m currently learning MCA in Tripura central university 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MTECH in Cyber forensi and Information Security
+-  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me u can reach me on github
 
 <!---
